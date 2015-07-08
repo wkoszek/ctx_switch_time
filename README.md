@@ -1,7 +1,7 @@
-ctxswtch_time
+ctx_switch_time -- Context Switch Time Inference Program
 =============
 
-ctxswtch_time - tries to show the characteristics of thread scheduling
+ctx_switch_time - tries to show the characteristics of thread scheduling
 
 The principle is pretty trivial--you preserve larger chunk of memory.
 You keep spinning in the loop and reading the real-time clock readouts.
