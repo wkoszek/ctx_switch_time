@@ -1,6 +1,8 @@
 ctx_switch_time -- Context Switch Time Inference Program
 =============
 
+[![Build Status](https://travis-ci.org/wkoszek/ctx_switch_time.svg)](https://travis-ci.org/wkoszek/ctx_switch_time)
+
 ctx_switch_time - tries to show the characteristics of thread scheduling
 
 The principle is pretty trivial--you preserve larger chunk of memory.
