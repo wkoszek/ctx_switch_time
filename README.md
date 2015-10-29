@@ -18,3 +18,8 @@ Some values for tuning:
 - small
 - bfactor
 - big_dev
+
+# Author
+
+- Wojciech Adam Koszek, [wojciech@koszek.com](mailto:wojciech@koszek.com)
+- [http://www.koszek.com](http://www.koszek.com)
